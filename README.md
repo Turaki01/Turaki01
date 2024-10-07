@@ -8,7 +8,7 @@ I'm Ezekiel Turaki Zakari, a Senior Software Engineer with extensive experience 
 - 💬 Ask me about: Full-stack development, scalable web applications, migrating from Angular to React, or anything software architecture-related.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-link) | [Email](mailto:turaks.ezekiel@example.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Beyond coding, I bonds over FIFA, COD Mobile, and more!
+- ⚡ Fun fact: Beyond coding, I bond over FIFA, COD Mobile, and more!
 
 Let's connect and build the future of software, one innovative solution at a time!
 
